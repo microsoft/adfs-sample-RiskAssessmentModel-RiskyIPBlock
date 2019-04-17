@@ -15,7 +15,7 @@ This sample plug-in is meant to better understand how to build a risk assessment
 
 To learn how to build this sample plug-in please visit [Building a sample plug-in documentation](https://review.docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/ad-fs-risk-assessment-model?branch=pr-en-us-27#building-a-sample-plug-in)
 
-# Contributing
+## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
