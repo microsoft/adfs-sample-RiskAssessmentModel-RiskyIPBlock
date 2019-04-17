@@ -13,7 +13,7 @@ For more details please visit [AD FS Risk Assessment Model documentation](https:
 
 This sample plug-in is meant to better understand how to build a risk assessment plug-in and run it in line with AD FS process. The code in this sample uses the new interfaces and classes introduced with the risk assessment model to block the requests coming from certain extranet IPs identified as risky. 
 
-To learn how to build this sample plug-in please visit [Building a sample plug-in documentation](https://review.docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/ad-fs-risk-assessment-model?branch=pr-en-us-27#building-a-sample-plug-in)
+To learn how to build this sample plug-in please visit [Building a sample plug-in documentation](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/ad-fs-risk-assessment-model#building-a-sample-plug-in)
 
 ## Contributing
 
